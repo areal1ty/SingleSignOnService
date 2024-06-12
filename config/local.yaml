@@ -1,0 +1,6 @@
+env: "local"
+storage_path: "./storage/ssos.db"
+token_ttl: 1h
+grpc:
+  port: 5050
+  timeout: 10h
